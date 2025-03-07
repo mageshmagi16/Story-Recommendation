@@ -1,4 +1,4 @@
-# Pratilipi Recommendation System 
+# Pratilipi Recommendation System  
 
 ## README: Story Recommendation System using Neural Networks
 
